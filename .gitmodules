@@ -1,0 +1,3 @@
+[submodule "ogr2osm"]
+	path = ogr2osm
+	url = https://github.com/navegantedoalem/ogr2osm.git
